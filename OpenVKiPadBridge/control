@@ -1,0 +1,9 @@
+Package: org.openvk.ipadbridge
+Name: OpenVK Bridge for VK iPad
+Version: 0.60.0
+Architecture: iphoneos-arm
+Description: Redirects the legacy VK iPad client to the OpenVK API.
+Maintainer: OpenVK Community
+Author: OpenVK Community
+Section: Tweaks
+Depends: mobilesubstrate

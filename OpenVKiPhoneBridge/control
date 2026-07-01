@@ -1,0 +1,9 @@
+Package: org.openvk.iphonebridge
+Name: OpenVK Bridge for VK iPhone
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Description: OpenVK compatibility bridge for legacy VK 2.10 on rootless iOS.
+Maintainer: OpenVK Community
+Author: OpenVK Community
+Section: Tweaks
+Depends: ellekit
